@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "site-ser-pkm"
+  navbar:
+    left:
+      - href: site-ser-pkm.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
